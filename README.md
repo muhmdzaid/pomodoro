@@ -15,5 +15,5 @@ Author
 
 Live server
 
-- https://ralfislask.github.io/Pomodoro-Timer/
+- https://muhammedzaid.github.io/Pomodoro-Timer/
 
